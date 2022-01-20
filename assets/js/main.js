@@ -15,6 +15,10 @@ class Validation {
     handleSubmit(elemento) {
         elemento.preventDefault()
         const camposValidos = this.camposValidos()
+        if(camposValidos) {
+            alert('Formulário Enviado.')
+            this.formulario.submit()
+        }
     }
 
     camposValidos() {
@@ -59,6 +63,9 @@ class Validation {
             }
 
         }
+
+        return valid
+
     }
 
     validaUsuario(campoUsuario) {
