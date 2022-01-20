@@ -2,7 +2,7 @@
 
 - Formulário com validações de campo
 
-<img src="./assets/img/tela.png" alt="Imagem da Tela">
+<img src="./assets/img/tela.png" alt="Imagem da Tela" width="">
 
 
 ## 🔧 Sobre:
