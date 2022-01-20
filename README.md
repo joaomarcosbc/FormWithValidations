@@ -1,8 +1,9 @@
-<img src="./assets/img/tela.png" alt="Imagem da Tela">
-
 # Projeto:
 
 - Formulário com validações de campo
+
+<img src="./assets/img/tela.png" alt="Imagem da Tela">
+
 
 ## 🔧 Sobre:
 
